@@ -12,7 +12,12 @@ which habit changes are associated with the biggest improvement.
   and rank by predicted gain.
 
 ## Results
-(paste the table from `models/results.csv` here)
+| Model | CV MAE | Test MAE | Test R² |
+|---|---|---|---|
+| Ridge | 0.160 | 0.164 | 0.550 |
+| Random Forest | 0.166 | 0.180 | 0.468 |
+| Gradient Boosting | 0.162 | 0.166 | 0.542 |
+
 
 ## Run it
 ```bash
