@@ -1,4 +1,5 @@
 # Student Performance Coach
+**🔗 Live app:** https://student-performance-predictor3.streamlit.app/
 
 Predicts a student's final grade (0-20) from habits and background, then tells the student
 which habit changes are associated with the biggest improvement.
@@ -35,4 +36,3 @@ streamlit run app.py
 ## Future work
 SHAP explanations, a classification (pass/fail) mode, more subjects (student-por.csv).
 
-**🔗 Live app:** https://student-performance-predictor3.streamlit.app/
