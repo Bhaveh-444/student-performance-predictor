@@ -34,3 +34,5 @@ streamlit run app.py
 
 ## Future work
 SHAP explanations, a classification (pass/fail) mode, more subjects (student-por.csv).
+
+**🔗 Live app:** https://student-performance-predictor3.streamlit.app/
